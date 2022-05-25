@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dennis Ochieng Onyango, a Data Scientist
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on Data Science Projects
+- 👋 Hi, I’m Dennis Ochieng Onyango, a Data Scientist.
+- 👀 I’m interested in Data Science, Reinforcement Learning and Business Analytics.
+- 🌱 I’m currently learning Data Science daily from the web.
+- 💞️ I’m looking to collaborate on Data Science Projects.
 - 📫 How to reach me: denisoonyango@outlook.com
 
 <!---
